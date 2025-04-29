@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://buynowpaylater.pages.dev/sitemap.xml
